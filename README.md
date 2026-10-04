@@ -73,7 +73,7 @@ Units Sold    = SUM(FactSales[Units_Sold])
 5. Plan stock and promotions for March to May, and for the August dip.
 
 ## Dashboard
-![Overview](images/1.Overview.png.png)
+![Overview](image/1.Overview.png.png)
 ![Territory and Product](images/2.Territory_Product.png.png)
 ![Insights](images/3.Insight.png.png)
 
