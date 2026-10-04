@@ -75,7 +75,7 @@ Units Sold    = SUM(FactSales[Units_Sold])
 ## Dashboard
 ![Overview](image/1.Overview.png.png)
 ![Territory and Product](image/2.Territory_Product.png.png)
-![Insights](images/3.Insight.png.png)
+![Insights](image/3.Insights.png.png)
 
 ## Limitations
 - The data is simulated.
