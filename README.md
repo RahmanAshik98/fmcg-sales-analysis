@@ -27,7 +27,7 @@ Management wants to know: **where are we performing well, where are we underperf
 | Power BI Desktop | Data model, DAX measures, dashboard |
 
 ## Data cleaning
-1,003 rows in the raw file became **881 clean rows**. Full details are in `Issue_Log.xlsx`.
+1,003 rows in the raw file became **881 clean rows**. Full details are in `Issue_Log` worksheet.
 
 | Stage | Rows |
 |---|---|
@@ -73,9 +73,9 @@ Units Sold    = SUM(FactSales[Units_Sold])
 5. Plan stock and promotions for March to May, and for the August dip.
 
 ## Dashboard
-![Overview](images/overview.png)
-![Territory and Product](images/territory_product.png)
-![Insights](images/insights.png)
+![Overview](images/1.Overview.png)
+![Territory and Product](images/2.Territory_Product.png)
+![Insights](images/3.Insight.png)
 
 ## Limitations
 - The data is simulated.
@@ -86,7 +86,6 @@ Units Sold    = SUM(FactSales[Units_Sold])
 ```
 FMCG_Sales_Project.xlsx    Raw data, mapping tables, clean data and pivots
 FMCG_Sales_Dashboard.pbix  Power BI dashboard
-Issue_Log.xlsx             Every data problem found and how it was fixed
 images/                    Dashboard screenshots
 README.md
 ```
